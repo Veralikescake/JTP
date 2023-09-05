@@ -8,3 +8,8 @@ During my one-week volunteer time there in August 2023, I learned that there has
 
 ## About the Data Set
 The dataset used in this analysis is provided by JTP, which is a record of the turtle nesting data from 2017 to 2022, including the number of eggs laid/hatched, where the eggs were laid, the turtle species, measurements of sample eggs, relocation time etc. 
+
+## Methodology
+* Language: Python
+* Analysis Model: Generalized Linear Regression
+
